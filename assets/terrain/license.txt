@@ -1,0 +1,11 @@
+Model Information:
+* title:	Underwater Scene
+* source:	https://sketchfab.com/3d-models/underwater-scene-7622d8f9409e457f824f48014408041e
+* author:	Susannetjotta (https://sketchfab.com/susannetjotta)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Underwater Scene" (https://sketchfab.com/3d-models/underwater-scene-7622d8f9409e457f824f48014408041e) by Susannetjotta (https://sketchfab.com/susannetjotta) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
